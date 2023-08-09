@@ -1,1 +1,6 @@
 pynwb
+h5py
+remfile
+sortingview
+neurosift
+mountainsort5
